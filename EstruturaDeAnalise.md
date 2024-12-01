@@ -1,4 +1,4 @@
-1. Análise exploratória de dados 
+# 1. Análise exploratória de dados 
 Nesta etapa, o objetivo é entender o contexto e as variáveis presentes no dataset. A análise exploratória ajudará a identificar padrões, características dos dados e insights relevantes sobre a propagação da dengue. Algumas etapas chave incluem:<br>
 * Visualizar as primeiras linhas do conjunto de dados.<br>
 * Verificar a presença de valores ausentes ou inconsistências.<br>
@@ -13,7 +13,7 @@ Possíveis perguntas de interesse:
         Quais variáveis mais influenciam a propagação da dengue?
         Existe uma correlação significativa entre variáveis meteorológicas (como temperatura, umidade, precipitação) e a incidência de dengue?
 
-2. Análise de Segmentação
+# 2. Análise de Segmentação
 
 Na etapa de segmentação, o objetivo é encontrar padrões ou agrupamentos dentro dos dados. Isso é essencial para identificar perfis de comportamentos e possíveis características comuns entre diferentes regiões ou períodos. Algumas abordagens para esta análise incluem:
 * Clusterização de dados:<br>
@@ -23,7 +23,7 @@ Na etapa de segmentação, o objetivo é encontrar padrões ou agrupamentos dent
 * Interpretação dos clusters:<br>
         Analisar os clusters gerados e interpretar os grupos formados. Por exemplo, se há um agrupamento de regiões com alta incidência de dengue associada a determinadas condições climáticas.<br>
 
-3. Análise Preditiva<br>
+# 3. Análise Preditiva<br>
 
 Esta etapa envolve a construção de modelos preditivos para prever, que pode ser a incidência de dengue em um determinado período de tempo ou em uma determinada região. Algumas etapas para análise preditiva incluem:<br>
 
