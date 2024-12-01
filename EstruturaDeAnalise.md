@@ -27,9 +27,9 @@ Na etapa de segmentação, o objetivo é encontrar padrões ou agrupamentos dent
 
 Esta etapa envolve a construção de modelos preditivos para prever, que pode ser a incidência de dengue em um determinado período de tempo ou em uma determinada região. Algumas etapas para análise preditiva incluem:<br>
 
-* Preparação dos dados:<br>
-        Tratar valores ausentes e codificar variáveis categóricas (se necessário).<br>
-        Dividir o conjunto de dados em dados de treinamento e dados de teste.<br>
+# Preparação dos dados:<br>
+Tratar valores ausentes e codificar variáveis categóricas (se necessário).<br>
+Dividir o conjunto de dados em dados de treinamento e dados de teste.<br>
 * Seleção de variáveis preditoras:<br>
         Escolher as variáveis mais relevantes para o modelo preditivo. Isso pode incluir variáveis meteorológicas (temperatura, precipitação) e outras características geográficas.<br> 
 * Construção de modelos preditivos:<br>
