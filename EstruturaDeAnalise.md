@@ -31,8 +31,7 @@ Esta etapa envolve a construção de modelos preditivos para prever, que pode se
         Tratar valores ausentes e codificar variáveis categóricas (se necessário).<br>
         Dividir o conjunto de dados em dados de treinamento e dados de teste.<br>
 * Seleção de variáveis preditoras:<br>
-        Escolher as variáveis mais relevantes para o modelo preditivo. Isso pode incluir variáveis meteorológicas (temperatura, precipitação) e outras características geográficas.
-<br>
+        Escolher as variáveis mais relevantes para o modelo preditivo. Isso pode incluir variáveis meteorológicas (temperatura, precipitação) e outras características geográficas.<br> 
 * Construção de modelos preditivos:<br>
         Utilizar algoritmos como Regressão Linear, Árvores de Decisão, Random Forest, Gradient Boosting ou XGBoost para prever a variável de interesse.<br>
         Avaliar o desempenho do modelo utilizando métricas como RMSE (Root Mean Squared Error), MAE (Mean Absolute Error) ou R².<br>
