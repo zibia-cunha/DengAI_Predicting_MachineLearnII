@@ -16,12 +16,10 @@ Possíveis perguntas de interesse:
 2. Análise de Segmentação
 
 Na etapa de segmentação, o objetivo é encontrar padrões ou agrupamentos dentro dos dados. Isso é essencial para identificar perfis de comportamentos e possíveis características comuns entre diferentes regiões ou períodos. Algumas abordagens para esta análise incluem:
-
     * Clusterização de dados:
         Utilizar algoritmos de clustering como K-Means para identificar segmentos ou agrupamentos naturais nos dados.
         Escolher as variáveis mais relevantes para segmentar, como condições climáticas, número de casos de dengue, localização geográfica, etc.
         Avaliar o número de clusters apropriado utilizando métricas de validação de clustering.
-
     * Interpretação dos clusters:
         Analisar os clusters gerados e interpretar os grupos formados. Por exemplo, se há um agrupamento de regiões com alta incidência de dengue associada a determinadas condições climáticas.
 
@@ -32,7 +30,6 @@ Esta etapa envolve a construção de modelos preditivos para prever, que pode se
    * Preparação dos dados:
         Tratar valores ausentes e codificar variáveis categóricas (se necessário).
         Dividir o conjunto de dados em dados de treinamento e dados de teste.
-
     * Seleção de variáveis preditoras:
         Escolher as variáveis mais relevantes para o modelo preditivo. Isso pode incluir variáveis meteorológicas (temperatura, precipitação) e outras características geográficas.
 
@@ -42,6 +39,5 @@ Esta etapa envolve a construção de modelos preditivos para prever, que pode se
 
    * Tuning de parâmetros:
         Realizar ajuste de parâmetros utilizando técnicas como Grid Search ou Random Search.
-
     * valiação do modelo:
         Testar o modelo nos dados de teste e avaliar a performance com base nas métricas de erro.
