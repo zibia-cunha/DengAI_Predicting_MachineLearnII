@@ -2,8 +2,11 @@
 ---
 ### Integrantes
 [José P. Marchezi](https://github.com/zemarchezi)
+
 [Zibia Cunha](https://github.com/zibia-cunha)
+
 [Manuela Sodré](https://github.com/ManuSodre)
+
 [Jaqueline Zanão](https://github.com/Jaquerida)
 
 
