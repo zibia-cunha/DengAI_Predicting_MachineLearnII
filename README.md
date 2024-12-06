@@ -1,4 +1,14 @@
 # PROJETO FINAL DE MACHINE LEARNING II
+---
+### Integrantes
+[José P. Marchezi](https://github.com/zemarchezi)
+
+[Zibia Cunha](https://github.com/zibia-cunha)
+
+[Manuela Sodré](https://github.com/ManuSodre)
+
+[Jaqueline Zanão](https://github.com/Jaquerida)
+
 
 ## Objetivos
 O objetivo principal deste projeto é avaliar o conjunto de dados sob três perspectivas, utilizando ferramentas de análise e ciência de dados:
